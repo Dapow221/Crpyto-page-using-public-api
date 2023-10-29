@@ -17,6 +17,9 @@ npm install
 ```
 npm run dev
 ```
+## Deploy Website
+
+Link: https://dapow-crypto.web.app/
 
 ## License
 
