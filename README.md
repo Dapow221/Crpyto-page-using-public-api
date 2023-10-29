@@ -5,6 +5,7 @@ Dapow crypto is a website about cryptocurrency using pulic api
 ## Installation
 
 get started.
+change base url in folder store to your base url
 
 cd individual_project
 
